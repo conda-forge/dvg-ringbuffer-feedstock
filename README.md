@@ -148,6 +148,3 @@ Feedstock Maintainers
 * [@Dennis-van-Gils](https://github.com/Dennis-van-Gils/)
 * [@timkpaine](https://github.com/timkpaine/)
 
-
-<!-- dummy commit to enable rerendering -->
-
