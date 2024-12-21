@@ -20,7 +20,7 @@ requirements:
     - pip
   run:
     - python >=3.6
-    - numpy >=1.15,<3
+    - numpy >=1.15,<3.0
 
 test:
   imports:
